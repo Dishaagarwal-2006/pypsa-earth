@@ -20,6 +20,16 @@ Scripts for sector-coupling features including heat, transport, industry, and hy
 
 ::: scripts.build_industry_demand
 
+::: scripts.retrieve_us_cities_dataset
+
+::: scripts.retrieve_ammonia_dataset
+
+::: scripts.build_ammonia_production
+
+::: scripts.build_industrial_database
+
+::: scripts.build_industrial_distribution_key
+
 ---
 
 ## Heat
@@ -41,6 +51,8 @@ Scripts for sector-coupling features including heat, transport, industry, and hy
 ## Transport
 
 ::: scripts.prepare_transport_data
+
+::: scripts.prepare_transport_data_input
 
 ::: scripts.prepare_airports
 
